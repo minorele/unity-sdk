@@ -1,0 +1,24 @@
+{
+    "name": "com.facebook.sdk",
+    "displayName": "Facebook SDK for Unity",
+    "version": "18.0.0",
+    "unity": "2019.4",
+    "description": "Facebook SDK for Unity provides a comprehensive set of tools for integrating Facebook features into your Unity application, including login, sharing, app events, graph API, app links, and gaming services.",
+    "keywords": [
+        "facebook",
+        "social",
+        "login",
+        "share",
+        "analytics",
+        "gaming"
+    ],
+    "author": {
+        "name": "Meta Platforms, Inc.",
+        "url": "https://developers.facebook.com"
+    },
+    "documentationUrl": "https://developers.facebook.com/docs/unity",
+    "licensesUrl": "https://github.com/facebook/facebook-sdk-for-unity/blob/main/LICENSE",
+    "dependencies": {
+         "com.google.external-dependency-manager": "1.2.182"
+    }
+}
